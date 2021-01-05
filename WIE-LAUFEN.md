@@ -86,8 +86,8 @@ durchgeführt werden.
 * [Installiere istioctl](https://istio.io/docs/setup/getting-started/) 
 und nutze es, um Istio auf dem Cluster zu installieren. Nutze das "demo" Profil.
 
-* Installiere auch die Addons (Kiali, Prometheus, Jaeger, Kiali). Die
-  dafür notwendigen Konfigurationsdatein finden sich im
+* Installiere auch die Addons (Kiali, Prometheus, Jaeger). Die
+  dafür notwendigen Konfigurationsdateien finden sich im
   Unterverzeichnis `samples/addons` der
   Istio-Installation. Installiere die Addons mit `kubectl apply -f
   samples/addons`.
