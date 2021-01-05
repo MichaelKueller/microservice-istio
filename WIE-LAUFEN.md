@@ -308,7 +308,7 @@ garantiert, dass die Daten einen Neustart oder Änderungen im Cluster
 und so bleibt das Setup recht einfach.
 
 Das Skript erzeugt auch Kubernetes-Services. Services haben eine im
-Cluster eindeutige IP-Adresse und einen DNS-Eintrage. Ein Service kann
+Cluster eindeutige IP-Adresse und einen DNS-Eintrag. Ein Service kann
 dann viele Pods umfassen, um Lastverteilung umzusetzen.
 
 * Starte `kubectl get services`, um die Kubernetes-Services zu sehen:
