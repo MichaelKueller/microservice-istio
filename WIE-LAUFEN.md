@@ -448,7 +448,7 @@ angezeigt wird. Sie hat Links zu den andern Microservices.
 * Sollte der Zugriff auf den Ingress nicht funktionieren oder die
   Skripte keine sinnvolle URL ausgegeben, dann kannst du mit
   dem Skript `ingress-forward.sh` einen Proxy zu dem Ingress auf dem
-  lokalen Rechner erzeugen. Das Skript dann die URL des Proxys aus.
+  lokalen Rechner erzeugen. Das Skript gibt dann die URL des Proxys aus.
 
 ## Microservice hinzufügen
 
